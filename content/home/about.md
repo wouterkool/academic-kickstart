@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Operations Research"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "MSc in Operations Research"
+  institution = "VU University Amsterdam"
+  year = 2014
+
+[[education.courses]]
+  course = "MSc in Business Analytics"
+  institution = "VU University Amsterdam"
+  year = 2014
+
+[[education.courses]]
+  course = "BSc in Business Analytics"
+  institution = "VU University Amsterdam"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Hello world!
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+*To use the worlds resources efficiently, software systems need to make good decisions. I think Artificial Intelligence (AI) has the exciting potential to learn how to do so.*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently, I am a first year PhD student at the [Amsterdam Machine Learning Lab (AMLAB)](http://amlab.science.uva.nl/), supervised by [Max Welling](https://staff.fnwi.uva.nl/m.welling/). My research focuses on using (Deep) Reinforcement Learning to learn algorithms capable of solving practical (combinatorial) optimization problems.
